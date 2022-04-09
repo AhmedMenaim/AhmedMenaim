@@ -8,19 +8,35 @@
 
 <p align="left">
 <a href="https://developer.apple.com/xcode/"target="_blank"> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.apple.com/swift/"target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="html5" width="40" height="40"/> </a>
+<!--   <a href="https://developer.apple.com/swift/"target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/> </a> -->
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+ <a href="https://backendless.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/26345314/162587960-326e5c64-e08b-4bd4-8d6e-7e5ad53cde9a.png" width="40" height="40"/> </a>
  
+  </p>
+  
+  <h2 align="left">👨🏻‍💻 Programming Languages </h2>
+  <p align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+
   </p>
   
   <h2 align="left">🌱 I’m currently learning ...</h2>
   
-  
+  <p align="left">
+<a href="https://flutter.dev/"target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> </a>
+  <a href="https://www.djangoproject.com/"target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/> </a>
+  <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Django" width="40" height="40"/> </a>
+    </p>
+    
+
+<h2 align="left">📱 Find me on...</h2>
 
 [![Linkedin: Menaim](https://img.shields.io/badge/-Menaim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-menaim-22cm/)](https://www.linkedin.com/in/ahmed-menaim-22cm/) [![Facebook Badge](https://img.shields.io/badge/-@Menaim-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/ahmed.menaim.3)](https://www.facebook.com/ahmed.menaim.3) 
 <br>
