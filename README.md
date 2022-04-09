@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Linkedin: Menaim](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-menaim-22cm/)](https://www.linkedin.com/in/ahmed-menaim-22cm/)
+[![Linkedin: Menaim](https://img.shields.io/badge/-Menaim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-menaim-22cm/)](https://www.linkedin.com/in/ahmed-menaim-22cm/)
