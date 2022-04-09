@@ -1,7 +1,7 @@
 <h2> Hi, I'm Ahmed Menaim! </h2>
-<p style="text-align:center;"><img align='center' src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif" width="350"></p>
+<p style="text-align:center;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align='center' src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif" width="350"></p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
-<p><em> 🔭 I’m currently working as an iOS Engineer at  <a href="https://yassir.com/en/home/">Yassir</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em> 🔭 I’m currently working as an iOS Engineer at  <a href="https://yassir.com/en/home/"> <img  src="http://yassirtaxi.tn/Benevole-YASSIR/logo-jeux.png" alt="Yassir" width="40" height="40"/></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
