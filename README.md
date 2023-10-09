@@ -28,7 +28,7 @@
 
   </p>
   <br>
-  <div><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CryptoOo&show_icons=true&locale=en&layout=compact" alt="Menaim" /></p></div>
+  <div><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedMenaim&show_icons=true&locale=en&layout=compact" alt="Menaim" /></p></div>
   
   <h2 align="left">🌱 I’m currently learning ...</h2>
   
@@ -56,7 +56,7 @@
 <p> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> </p>
 
 <!--
-**CryptoOo/CryptoOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AhmedMenaim/AhmedMenaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -71,6 +71,6 @@ https://giffiles.alphacoders.com/100/100585.gif
 -->
 
  
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CryptoOo&show_icons=true&locale=en" alt="Menaim" /></p> -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedMenaim&show_icons=true&locale=en" alt="Menaim" /></p> -->
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CryptoOo&" alt="Menaim" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMenaim&" alt="Menaim" /></p> -->
