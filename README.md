@@ -1,4 +1,27 @@
 <h2> Hi, I'm Ahmed Menaim! </h2>
+I’m a Senior/Lead software engineer in iOS who worked also as an Instructor and Technical writer.
+
+I’m located in Cairo, Egypt 🇪🇬 but most of my work was remotely in Algeria 🇩🇿, Saudi Arabia 🇸🇦, Kenya 🇰🇪, The United States 🇺🇸 & Germany 🇩🇪 for more than 4 years of my experience.
+
+I have worked with UIKit, SwiftUI, Memory Management, Design patterns, and SOLID principles to achieve clean architecture concepts with MVP, MVVM & VIPER, etc…
+
+Of course, I have experience in clean code, Git, GitFlow, CI/CD, Fastlane & Bitrise. 
+
+Some of my responsibilities in the companies I have worked in: 
+
+1- Keep the high code quality. 
+
+2- Apply the SOLID Principles and the needed Design Patterns to be able to achieve clean architectural concepts. 
+
+3- Enhance the existing process for more feasibility in the workflow. 
+
+4- Responsible for the CI/CD pipeline.
+
+5- Evolve in the interview process (Review CV, Review Technical Tasks, Make Technical and system Design interviews for candidates)
+
+6- Onboarding process for newcomers through the apps. 
+
+In my spare time, I’m creating content on my YouTube channel 🎥 to explain more concepts like: Programming, iOS Development, CV writing/reviewing, LinkedIn profiles, etc…
 <p style="text-align:center;"> <img align='center' src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif" width="350"></p>
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"> -->
 <p><em> 🔭 I’m currently working as Senior/Lead Software Engineer in iOS </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
