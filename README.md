@@ -25,13 +25,18 @@ Some of my responsibilities in the companies I have worked in:
 
 In my spare time, I’m creating content on my YouTube channel 🎥 to explain more concepts like: Programming, iOS Development, CV writing/reviewing, LinkedIn profiles, etc…
 
-<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"> -->
-<!-- <p><em> 🔭 I’m currently working as Senior/Lead Software Engineer in iOS </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p> -->
+  <hr>
+<h2><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width ="35"> Github Stats </h2>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=CryptoOo&label=Profile%20views&color=0e75b6&style=flat" alt="Menaim" /> </p> -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMenaim&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AhmedMenaim)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedmenaim&theme=omni)
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+  <hr>
+  
+<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Skills</f2> 
+
+ ##### Technologies and Tools I use
 
 <p align="left">
 <a href="https://developer.apple.com/xcode/"target="_blank"> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="html5" width="40" height="40"/> </a>
@@ -46,36 +51,36 @@ In my spare time, I’m creating content on my YouTube channel 🎥 to explain m
  <a href="https://backendless.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/26345314/162587960-326e5c64-e08b-4bd4-8d6e-7e5ad53cde9a.png" width="40" height="40"/> </a>
  
   </p>
-  
-  <h2 align="left">👨🏻‍💻 Programming Languages </h2>
+
+<br/>
+
+ 
+  ##### 👨🏻‍💻 Programming Languages
   <p align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-
+ <img src="https://github.com/AhmedMenaim/AhmedMenaim/assets/26345314/24b70e5e-c6f0-4126-bbc2-8d988222492e" alt="Ruby" width="40" height="40"/>
   </p>
   <br>
-  <div><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedMenaim&show_icons=true&locale=en&layout=compact" alt="Menaim" /></p></div>
   
-  <h2 align="left">🌱 I’m currently learning ...</h2>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedmenaim&theme=omni)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedmenaim&theme=omni)
+
+  <hr>
   
-  <p align="left">
-<a href="https://flutter.dev/"target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/"target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Django" width="40" height="40"/> </a>
-    </p>
-    
-
-<h2 align="left">📱 Find me on...</h2>
-
-[![Linkedin: Menaim](https://img.shields.io/badge/-Menaim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-menaim-22cm/)](https://www.linkedin.com/in/ahmed-menaim-22cm/) [![Facebook Badge](https://img.shields.io/badge/-@Menaim-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/ahmed.menaim.3)](https://www.facebook.com/ahmed.menaim.3) 
-<br>
-
-
-[![YT-Logo](https://user-images.githubusercontent.com/26345314/162580151-8af04674-1da2-4934-98e1-9067dd93ea84.png)](https://www.youtube.com/channel/UCGHYazzPlhbliWo5ifPm3YQ) 
+<h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
+<p>
+  <a href="https://www.linkedin.com/in/menaim/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+   <a href="https://www.facebook.com/ahmed.menaim.3/"><img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/></a>
+   <a href="mailto:ahmedmenaim8@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
+ <a href="https://www.youtube.com/channel/UCGHYazzPlhbliWo5ifPm3YQ"><img src="https://user-images.githubusercontent.com/26345314/162580151-8af04674-1da2-4934-98e1-9067dd93ea84.png"/></a>
 <a href="https://menaim.medium.com/"> <img src= "https://user-images.githubusercontent.com/26345314/162615248-54692c38-dd46-418b-bf73-d4e3b81fe973.png" width="40">
 <a href="https://stackoverflow.com/users/14437411/menaim"> <img src= "https://user-images.githubusercontent.com/26345314/162581545-9cec2771-efa9-4992-a331-ebda39ddb7fc.png" width="40">
+
+</p>
+
 
  <h2 align="left"> ⚡ Fun fact... </h2>
  Watching Anime is the best thing after coding 🤣
