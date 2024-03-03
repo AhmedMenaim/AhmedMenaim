@@ -3,7 +3,7 @@
 
 I’m a Senior/Lead software engineer in iOS who worked also as an Instructor 👨🏻‍🏫 and Technical writer 👨🏻‍💻.
 
-I’m located in Cairo, Egypt 🇪🇬 but most of my work was remotely in Algeria 🇩🇿, Saudi Arabia 🇸🇦, Kenya 🇰🇪, The United States 🇺🇸 & Germany 🇩🇪 for more than 4 years of my experience.
+I’m located in Cairo, Egypt 🇪🇬 but most of my work was remotely in Algeria 🇩🇿, Saudi Arabia 🇸🇦, Kenya 🇰🇪, The United States 🇺🇸 & Germany 🇩🇪 for more than 80% of my experience.
 
 I have worked with UIKit, SwiftUI, Memory Management, Design patterns, and SOLID principles to achieve clean architecture concepts with MVP, MVVM & VIPER, etc…
 
