@@ -1,15 +1,15 @@
 <h2> Hi, I'm Ahmed Menaim! </h2>
 <p style="text-align:center;"> <img align='center' src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif" width="350"></p>
 
-I’m a Senior/Lead software engineer in iOS who worked also as an Instructor 👨🏻‍🏫 and Technical writer 👨🏻‍💻.
+🔶 Senior/Lead software engineer in iOS with **+8 years** hands on experience in the field who worked also as an Instructor, Mentor 👨🏻‍🏫 and Technical writer 👨🏻‍💻.
 
-I’m located in Cairo, Egypt 🇪🇬 but most of my work was remotely in Algeria 🇩🇿, Saudi Arabia 🇸🇦, Kenya 🇰🇪, The United States 🇺🇸 & Germany 🇩🇪 for more than 80% of my experience.
+📍 located in Cairo, Egypt 🇪🇬 but most of my work was remotely in Algeria 🇩🇿, Saudi Arabia 🇸🇦, Lebanon 🇱🇧, Kenya 🇰🇪, The United States 🇺🇸 & Germany 🇩🇪 for more than 80% of my experience.
 
-I have worked with UIKit, SwiftUI, Memory Management, Design patterns, and SOLID principles to achieve clean architecture concepts with MVP, MVVM & VIPER, etc…
+📊 I have worked with UIKit, SwiftUI, Memory Management, Design patterns, and SOLID principles to achieve clean architecture concepts with MVP, MVVM & VIPER, etc…
 
-Of course, I have experience in clean code, Git, GitFlow, CI/CD, Fastlane & Bitrise. 
+📈 Experienced in clean code, Git, GitFlow, CI/CD, Fastlane & Bitrise. 
 
-Some of my responsibilities in the companies I have worked in: 
+📌 Some of my responsibilities in the companies I have worked in: 
 
 1- Keep the high code quality. 
 
@@ -44,7 +44,7 @@ In my spare time, I’m creating content on my [YouTube channel](https://www.you
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://www.postman.com/" target="_blank"> <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
  <a href="https://backendless.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/26345314/162587960-326e5c64-e08b-4bd4-8d6e-7e5ad53cde9a.png" width="40" height="40"/> </a>
@@ -80,14 +80,18 @@ In my spare time, I’m creating content on my [YouTube channel](https://www.you
 
 </p>
 
-
  <h2 align="left"> ⚡ Fun fact... </h2>
  Watching Anime is the best thing after coding 🤣
  
 <br>
 <p> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedMenaim&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedMenaim" /> </p>
+
 <!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedMenaim&show_icons=true&locale=en" alt="AhmedMenaim" /></p>
+
+
 **AhmedMenaim/AhmedMenaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
