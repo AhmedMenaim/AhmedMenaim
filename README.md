@@ -91,6 +91,7 @@ In my spare time, I’m creating content on my [YouTube channel](https://www.you
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedMenaim&show_icons=true&locale=en" alt="AhmedMenaim" /></p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedmenaim&show_icons=true&hide_border=true&theme=radical" /> 
 
 **AhmedMenaim/AhmedMenaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
